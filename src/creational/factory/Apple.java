@@ -5,6 +5,7 @@ package creational.factory;
  */
 public class Apple extends Laptop{
 
+	@Override
 	public void printTagline()
 	{
 		System.out.println("Think different !! ");
