@@ -7,7 +7,7 @@ package creational.factory;
 public class LaptopFactory {
 
 	public Laptop createLaptop(String type) {
-		if ("Apple".equals(type)) {
+		if ("Expensive".equals(type)) {
 			return new Apple();
 		} else {
 			return new Dell();
