@@ -1,4 +1,4 @@
-package creational.factory;
+package factory;
 
 /**
  * @author Pooja Mantri

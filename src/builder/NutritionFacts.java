@@ -1,4 +1,4 @@
-package creational.builder;
+package builder;
 
 /**
  * @author Pooja Mantri
